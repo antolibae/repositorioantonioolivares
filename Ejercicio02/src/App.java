@@ -6,6 +6,7 @@ public class App {
     private final static Scanner sc = new Scanner(System.in);
     /*
      * Método principal
+     * Modificación método principal
      */
     public static void main(String[] args) throws Exception {
         Functions.UsarBD();
